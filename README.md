@@ -1,6 +1,4 @@
-Dưới đây là mẫu file README cho dự án phân loại hạt giống gạo sử dụng các thuật toán học máy (Machine Learning). 
 
----
 
 # Rice Seed Classification
 

@@ -11,11 +11,9 @@ This project focuses on classifying rice seed images into distinct varieties usi
 1. [Overview](#overview)
 2. [Dataset](#dataset)
 3. [Model Architecture](#model-architecture)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [Contributing](#contributing)
-8. [License](#license)
+4. [Results](#results)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Overview
 

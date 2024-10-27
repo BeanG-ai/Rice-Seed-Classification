@@ -61,9 +61,8 @@ The project utilizes several architectures to classify rice seeds, including:
 | **Average**     | 94.04% | 93.59% | 96.59% | 96.44% | 96.06% | 96.03% | 95.72%                 | 95.52%                  | 97.45% | 97.45%  |
 
 
-### Table: Performance Metrics Using 52 Features
 
-### Table: Performance Metrics Using 52 Features
+### Table: Performance Metrics Using 52 Features with Stacking and Bagging
 
 | Seed          | **Bagging (52 features)** |       |       |       | **Stacking (52 features)** |       |       |       |
 |---------------|---------------------------|-------|-------|-------|----------------------------|-------|-------|-------|
@@ -88,6 +87,3 @@ We welcome contributions to enhance the project. Please open an issue to discuss
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
---- 
-
-This README provides a comprehensive overview of the project, from setup to results, making it easier for others to understand, install, and potentially contribute. Let me know if you'd like to add or modify any details.
